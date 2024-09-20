@@ -1,7 +1,9 @@
 idek
 not sure what to say
 # BUT
-im learning c#! [images](https://github.com/user-attachments/assets/a5906690-5c01-40d1-ad4b-64e53a5d678b)
-im also learning c++ after i learn c# ![png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue](https://github.com/user-attachments/assets/fb28f538-701b-4c20-8f09-98c777cb716c)
+im learning c#! ![1__NVBTVdmjt3Qvq3CZOySXg](https://github.com/user-attachments/assets/6c9f3466-5b35-4afd-be76-b41b30f1cad9)
+
+im also learning c++ after i learn c# ![cbe401fa-ce4b-4644-985f-e2bb42b909ef_28_WhyC++](https://github.com/user-attachments/assets/a4417690-9573-499a-aa0c-41aea5f0da08)
+
 
 im also interested in Python but thats not important now so yeah!📢
