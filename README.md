@@ -1,3 +1,2 @@
-## Hi there im anonymousdonut 👋
-
+## Hi there im AnonymousDonut 👋
 ### Currently learning c# 🌱
