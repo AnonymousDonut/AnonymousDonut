@@ -1,2 +1,2 @@
 ## Hi there im AnonymousDonut 👋
-### Currently learning c# 🌱
+### Currently learning AHK!
