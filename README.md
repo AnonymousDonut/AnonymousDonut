@@ -1,5 +1,5 @@
 ## Hi there im AnonymousDonut 👋
-### Currently learning AHK and LuaU!
+### Currently doing nothing
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnonymousDonut&theme=transparent&show_icons=true&locale=en" alt="AnonymousDonut" /></p>
 
